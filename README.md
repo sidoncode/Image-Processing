@@ -8,6 +8,11 @@ Pre-Requisite Knowledge:
 
 2)
 
+Modules Used in the project:-
+
+1) Pytesseract: Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.
+2) Open Source Computer Vision 2: OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+
 
 
 
