@@ -17,3 +17,11 @@ Modules Used in the project:-
 
 
 Screenshots of the installation process
+
+
+
+
+
+
+
+Scope of the project:
