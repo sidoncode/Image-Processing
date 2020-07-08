@@ -18,6 +18,8 @@ Modules Used in the project:-
 
 Screenshots of the installation process
 
+![1](https://user-images.githubusercontent.com/40432616/86956675-18d36e80-c177-11ea-9c89-853910281e4d.PNG)
+![2](https://user-images.githubusercontent.com/40432616/86956683-1bce5f00-c177-11ea-9387-b593f92eef31.PNG)`
 
 
 
