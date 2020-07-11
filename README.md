@@ -23,7 +23,16 @@ Screenshots of the installation process
 
 
 
+Application of the Project:
+
+
+
+
+
 
 
 
 Scope of the project:
+
+
+
