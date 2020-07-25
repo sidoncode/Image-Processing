@@ -23,9 +23,9 @@ Screenshots of the installation process
 
 
 
-Application of the Project:
+## Application of the Project:
 
-1) Reading captcha
+### 1) Reading captcha
 
 
 
